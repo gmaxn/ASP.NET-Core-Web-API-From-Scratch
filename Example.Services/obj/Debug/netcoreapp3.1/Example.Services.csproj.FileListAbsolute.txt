@@ -1,0 +1,9 @@
+D:\Developer\Example\Example.Services\bin\Debug\netcoreapp3.1\Example.Services.deps.json
+D:\Developer\Example\Example.Services\bin\Debug\netcoreapp3.1\Example.Services.dll
+D:\Developer\Example\Example.Services\bin\Debug\netcoreapp3.1\Example.Services.pdb
+D:\Developer\Example\Example.Services\obj\Debug\netcoreapp3.1\Example.Services.csprojAssemblyReference.cache
+D:\Developer\Example\Example.Services\obj\Debug\netcoreapp3.1\Example.Services.AssemblyInfoInputs.cache
+D:\Developer\Example\Example.Services\obj\Debug\netcoreapp3.1\Example.Services.AssemblyInfo.cs
+D:\Developer\Example\Example.Services\obj\Debug\netcoreapp3.1\Example.Services.csproj.CoreCompileInputs.cache
+D:\Developer\Example\Example.Services\obj\Debug\netcoreapp3.1\Example.Services.dll
+D:\Developer\Example\Example.Services\obj\Debug\netcoreapp3.1\Example.Services.pdb

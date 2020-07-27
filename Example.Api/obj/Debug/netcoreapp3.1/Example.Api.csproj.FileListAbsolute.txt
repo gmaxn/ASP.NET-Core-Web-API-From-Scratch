@@ -7,12 +7,15 @@ D:\Developer\Example\Example.Api\bin\Debug\netcoreapp3.1\Example.Api.runtimeconf
 D:\Developer\Example\Example.Api\bin\Debug\netcoreapp3.1\Example.Api.runtimeconfig.dev.json
 D:\Developer\Example\Example.Api\bin\Debug\netcoreapp3.1\Example.Api.dll
 D:\Developer\Example\Example.Api\bin\Debug\netcoreapp3.1\Example.Api.pdb
+D:\Developer\Example\Example.Api\bin\Debug\netcoreapp3.1\Example.Services.dll
+D:\Developer\Example\Example.Api\bin\Debug\netcoreapp3.1\Example.Services.pdb
 D:\Developer\Example\Example.Api\obj\Debug\netcoreapp3.1\Example.Api.csprojAssemblyReference.cache
 D:\Developer\Example\Example.Api\obj\Debug\netcoreapp3.1\Example.Api.AssemblyInfoInputs.cache
 D:\Developer\Example\Example.Api\obj\Debug\netcoreapp3.1\Example.Api.AssemblyInfo.cs
 D:\Developer\Example\Example.Api\obj\Debug\netcoreapp3.1\Example.Api.csproj.CoreCompileInputs.cache
 D:\Developer\Example\Example.Api\obj\Debug\netcoreapp3.1\Example.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\Developer\Example\Example.Api\obj\Debug\netcoreapp3.1\Example.Api.RazorTargetAssemblyInfo.cache
+D:\Developer\Example\Example.Api\obj\Debug\netcoreapp3.1\Example.Api.csproj.CopyComplete
 D:\Developer\Example\Example.Api\obj\Debug\netcoreapp3.1\staticwebassets\Example.Api.StaticWebAssets.Manifest.cache
 D:\Developer\Example\Example.Api\obj\Debug\netcoreapp3.1\staticwebassets\Example.Api.StaticWebAssets.xml
 D:\Developer\Example\Example.Api\obj\Debug\netcoreapp3.1\Example.Api.dll

@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Example.Api/1.0.0": {
         "dependencies": {
+          "Example.Services": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -312,6 +313,14 @@
         },
         "compile": {
           "Example.Api.dll": {}
+        }
+      },
+      "Example.Services/1.0.0": {
+        "runtime": {
+          "Example.Services.dll": {}
+        },
+        "compile": {
+          "Example.Services.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2010,6 +2019,11 @@
   },
   "libraries": {
     "Example.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Example.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
